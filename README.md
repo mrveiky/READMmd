@@ -20,7 +20,7 @@
 
 <p>
   <img src="https://media1.tenor.com/images/e22311fcf246733dedad626fc21cb52e/tenor.gif?itemid=10669127" width="32" /> <br />
-  <b>Discord</b>: The Evil#7054 <br/>
+  <b>Discord</b>: vicky.#3612 <br/>
   <img src="https://icongr.am/fontawesome/envelope-o.svg?size=32&color=2198c0" width="32" /> <br />
   <b>Mail</b>: Planed634@gmail.com<br/>
 </p>
