@@ -14,14 +14,11 @@
 </div>
 
 
-
-
-### Contact
-
-![image](https://user-images.githubusercontent.com/71032830/126840945-075da747-0d22-4bc2-bcbf-9359b0b25f4c.png)
-
-  <b>Discord</b>: vicky.#3612 <br/>
   <img src="https://icongr.am/fontawesome/envelope-o.svg?size=32&color=2198c0" width="32" /> <br />
   <b>Mail</b>: Planed634@gmail.com<br/>
 </p>
 
+
+### Contact me on discord </>
+  <b>Discord</b>: vicky.#3612 <br/>
+![image](https://user-images.githubusercontent.com/71032830/126840945-075da747-0d22-4bc2-bcbf-9359b0b25f4c.png)
