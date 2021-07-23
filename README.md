@@ -1,3 +1,8 @@
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=c3duan&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&bg_color=30,5A585A,090947&title_color=20A4F3&text_color=20A4F3&icon_color=BC6F03" alt="Chengzhu's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c3duan&layout=compact&langs_count=12&&hide=jupyter notebook,html,css,scss&theme=nightowl" alt="Chengzhu's Most Used Languages" />
+</span>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Selinvictor&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selinvictor&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10"/>
