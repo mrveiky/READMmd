@@ -19,6 +19,7 @@
 </p>
 
 
-### Contact me on discord </>
+### CONTACT ME ON DICORD </>
   <b>Discord</b>: vicky.#3612 <br/>
-![image](https://user-images.githubusercontent.com/71032830/126840945-075da747-0d22-4bc2-bcbf-9359b0b25f4c.png)
+![image](https://user-images.githubusercontent.com/71032830/126841449-47a62c00-5b47-4f29-848c-0feacd16f389.png)
+
